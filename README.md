@@ -1,0 +1,1 @@
+If while cleaning the laptop by mistake you have disconnected your battery and out of the blue your pc say's something like: "The sign option is disabled because of failed login attempts..... try again after 2 hours", then follow these steps in order to unlock your pc and make sure you remeber your microsoft account password otherwise it won't work 
