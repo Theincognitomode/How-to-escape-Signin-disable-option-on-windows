@@ -13,8 +13,11 @@ If you are have screen something like this, then follow the below mentioned step
 3. Then click on command prompt
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a08cd476-e1f6-4628-842d-b32181e64962" />
 
+
 4.Type the following command on the cmd: `regedit` (basically we are opening the registry editor applicaiton)
+
 <img width="208" height="141" alt="image" src="https://github.com/user-attachments/assets/368b9e72-2a59-48f0-af19-b5e662ae87d9" />
+
 
 5. Select the `HKEY_LOCAL_MACHINE` -> File Option -> Load Hive
 <img width="445" height="282" alt="image" src="https://github.com/user-attachments/assets/f5d0e1c6-fb78-453a-8055-1c3f979ff7fa" />
